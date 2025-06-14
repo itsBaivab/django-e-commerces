@@ -70,7 +70,7 @@ git --version
 
 ```bash
 # Clone the project
-git clone https://github.com/zinmyoswe/Django-Ecommerce.git
+git clone https://github.com/itsBaivab/django-e-commerces.git
 
 # Navigate to project directory
 cd Django-Ecommerce
