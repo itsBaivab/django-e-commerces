@@ -194,7 +194,7 @@ docker ps
 
 ```bash
 # Clone the repository (if not already done)
-git clone https://github.com/zinmyoswe/Django-Ecommerce.git
+git clone https://github.com/itsBaivab/django-e-commerces.git
 cd Django-Ecommerce
 
 # Build the Docker image
